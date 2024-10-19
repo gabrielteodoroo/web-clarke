@@ -38,3 +38,7 @@ Para iniciar o servidor de desenvolvimento com Vite, execute o seguinte comando:
 ```bash
 npm run dev
 ``` 
+
+### Acessando a Aplicação Online
+A aplicação também está disponível online, e você pode acessá-la através do seguinte link:
+https://web-clarke.vercel.app/
