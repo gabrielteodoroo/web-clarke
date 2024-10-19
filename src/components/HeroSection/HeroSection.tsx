@@ -32,7 +32,7 @@ export const HeroSection = ({ setShowSuppliers }: HeroSectionProps) => {
         <Button
           type="button"
           backgroundColor={"#00BF6A"}
-          w="250px"
+          w="270px"
           h="45px"
           borderRadius={"50px"}
           color={"#FAFAFA"}
